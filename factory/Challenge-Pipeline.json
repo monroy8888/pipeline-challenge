@@ -1,0 +1,9 @@
+{
+	"name": "Challenge-Pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d32942b-3ecb-4679-a156-d89ea15608fd",
+		"tenantId": "2f010cc9-a5d5-40a4-9fab-a5e2aceafa83"
+	}
+}
